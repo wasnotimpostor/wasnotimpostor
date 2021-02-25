@@ -2,6 +2,10 @@
   <img src="https://github.com/wasnotimpostor/praxis-academy/blob/master/novice/01/01-01/rsz_me_-.png"/>
 </p>
 
+```
+                                                私みたいと手に取って
+```
+
 <!--
 **wasnotimpostor/wasnotimpostor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
